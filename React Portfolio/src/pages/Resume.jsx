@@ -4,7 +4,10 @@ const Resume = () => {
   return (
     <div>
       <h1>Resume</h1>
-      {/* Add your resume content here */}
+      <p>You can view and download my resume by clicking the link below:</p>
+      <a href="/assets/Jethro_Resume.pdf" download="Jethro_Resume.pdf">
+        Download Resume
+      </a>
     </div>
   );
 };

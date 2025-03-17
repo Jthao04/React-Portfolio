@@ -9,6 +9,9 @@ import AboutMe from './pages/About';
 import Portfolio from './pages/Portfolio';
 import Resume from './pages/Resume';
 
+import './styles/main.scss'; // Import the main SCSS file
+import 'bootstrap-icons/font/bootstrap-icons.css'; // Import Bootstrap Icons CSS
+
 const router = createBrowserRouter([
   {
     path: '/',
