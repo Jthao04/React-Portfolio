@@ -1,7 +1,7 @@
 function Header() {
   return (
-    <header className="containder">
-    <h1 className="text-center">My Portfolio</h1>
+    <header className="header-container">
+      <h1 className="text-center">My Portfolio</h1>
     </header>
   );
 }

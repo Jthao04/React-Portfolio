@@ -19,6 +19,18 @@ body {
   padding-top: 56px; // Add padding to prevent content from being hidden behind the fixed navbar
 }
 
+// Center the resume text and make it white
+.resume-container {
+  text-align: center;
+  margin-top: 20px;
+  color: #ffffff; // White text color
+}
+
+// Make the header text white
+.header-container {
+  color: #ffffff; // White text color
+}
+
 // Corrected selector to target '.project-img'
 .project-img {
   opacity: 1; /* Initial opacity */
