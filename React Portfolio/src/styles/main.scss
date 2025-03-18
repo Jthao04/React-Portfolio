@@ -16,6 +16,7 @@ $primary: #2A9D8F;
 // Use custom variables in your styles
 body {
   background-color: $bg-body;
+  padding-top: 56px; // Add padding to prevent content from being hidden behind the fixed navbar
 }
 
 // Corrected selector to target '.project-img'
