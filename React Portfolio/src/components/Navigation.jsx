@@ -7,7 +7,6 @@ function Navigation() {
         <nav className="navbar navbar-expand-lg bg-secondary pb-0 fixed-top">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    <img src="https://img.icons8.com/hatch/64/mario.png" alt="Logo" width="30" height="30" className="d-inline-block align-text-top tertiary" />
                     Jethro Thao
                 </a>
                 <ul className="nav nav-tabs">

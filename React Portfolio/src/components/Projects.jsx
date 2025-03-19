@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/main.scss'; // Ensure you import the CSS file
+import '../styles/main.scss';
 
 function Projects ({ imgSrc, title, projectLink }) {
   return (
