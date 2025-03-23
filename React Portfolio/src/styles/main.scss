@@ -1,16 +1,16 @@
 @use "bootstrap/scss/bootstrap" with (
-  $primary: #2A9D8F,
-  $secondary: #E76F51,
+  $primary: #2DC7FF,
+  $secondary: #EABA6B,
   $light: #FEFAE0,
   $success: #90be6d,
   $info: #219ebc,
   $warning: #E9C46A,
   $danger: #d62828,
-  $dark: #264653 
+  $dark: #fafafb 
 );
 
 // Define custom variables
-$bg-body: #264653;
+$bg-body: #00ABE7;
 $primary: #2A9D8F;
 
 // Use custom variables in your styles
@@ -62,10 +62,7 @@ body {
   margin: 0;
 }
 
-//https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51//
-// #264653
-// #2A9D8F
-// #E9C46A
-// #F4A261
-// #E76F51
-// #FEFAE0
+// Add the .icon-white class for white icons
+.icon-white {
+  color: white; // Set the icon color to white
+}

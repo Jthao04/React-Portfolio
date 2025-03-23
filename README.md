@@ -16,27 +16,27 @@
 
 ## Description
 
-<!-- A TypeScript program that allows a user to search a city within the United States through the front-end and the server will grab a five day weather forecast of that city. In the five day weather forecast, the temperature will be displayed in Fahrenheit, the wind in miles-per-hour, and the humidity percentage for the city that was searched for. Previous city searches will be saved under the search bar. -->
+A React application that displays a portfolio of a junior web developer. Within this application, you can learn more about the web developer and the projects he has created. As well as contacting him and downloading his resume.
 
 ## Installation
 
-<!-- Clone the repo and type npm run start:dev in the terminal to start the program. -->
+Clone the repo and open up the integrated terminal in the main path of the project and type npm run dev to start the application.
 
 ## Usage
 
-<!-- Use this program to search up a city within the United States to get the weather forecast for the next five days. -->
+Use this application to toggle through the developer's information/projects. The user is also able to contact and download the developer's resume.
 
 ## License
 
-<!-- This project is licensed under the [MIT]([License](https://opensource.org/licenses/MIT)) license. -->
+This project is licensed under the [MIT]([License](https://opensource.org/licenses/MIT)) license.
 
 ## Contributing
 
-<!-- I was able to create a weather dashboard by fetching data through the OpenWeather API. -->
+I was able to create a portfolio about myself that utilizes React.
 
 ## Tests
 
-<!-- Npm run start:dev was utilized to open the front-end of the application to allow the user to search cities with the United States for the weather forecast for the next 5 days. -->
+Npm run dev was utilized to open a the front-end of the application allowing me to view the developer's portfolio.
 
 ## Questions
 Here is a link to my [GitHub](https://github.com/Jthao04).
