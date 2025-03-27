@@ -1,7 +1,7 @@
-import Header from './components/header'
-import Footer from './components/Footer'
-import Navigation from './components/navigation'
-import { Outlet } from 'react-router-dom'
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Navigation from './components/Navigation';
+import { Outlet } from 'react-router-dom';
 
 function App() {
   return (
@@ -9,11 +9,11 @@ function App() {
       <Navigation />
       <Header />
       <main className="mx-3">
-      <Outlet />
+        <Outlet />
       </main>
       <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
