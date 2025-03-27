@@ -11,8 +11,10 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+# [Live Page](https://jetportfolio.netlify.app/)
+
 ## Screenshot
-<!-- ![Fullscreen Image](./Assets/Screenshot.png) -->
+![Fullscreen Image](/public/assets/Screenshot1.png)
 
 ## Description
 
